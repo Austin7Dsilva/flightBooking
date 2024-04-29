@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/flightbooking/static/css/main.ea59c3b6.css",
+    "main.js": "/flightbooking/static/js/main.d120b8f9.js",
+    "static/js/453.356ef4fb.chunk.js": "/flightbooking/static/js/453.356ef4fb.chunk.js",
+    "static/media/plane-video.mp4": "/flightbooking/static/media/plane-video.cc4c43ba8e19c64ff2c3.mp4",
+    "static/media/lounge-2.jpg": "/flightbooking/static/media/lounge-2.cfdeded6ebc47738e899.jpg",
+    "static/media/paris.jpg": "/flightbooking/static/media/paris.918811ff3525eef0d0da.jpg",
+    "static/media/user4.jpg": "/flightbooking/static/media/user4.f475a24ed1411cdb3ddb.jpg",
+    "static/media/grid-2.jpg": "/flightbooking/static/media/grid-2.d01098a5fdbcfb4f9854.jpg",
+    "static/media/london.jpg": "/flightbooking/static/media/london.53d2e606cd3cee561348.jpg",
+    "static/media/user2.jpg": "/flightbooking/static/media/user2.98ceacd56f9cfd138fdb.jpg",
+    "static/media/user1.jpg": "/flightbooking/static/media/user1.8db413391e2ad43fc586.jpg",
+    "static/media/lounge-1.jpg": "/flightbooking/static/media/lounge-1.72cac803227de7fc0d32.jpg",
+    "static/media/grid-3.jpg": "/flightbooking/static/media/grid-3.dd00baf5ba8694b709c5.jpg",
+    "static/media/user3.jpg": "/flightbooking/static/media/user3.b3fc243ef921c58a5e08.jpg",
+    "static/media/grid-1.jpg": "/flightbooking/static/media/grid-1.ba42f65094bcfb65dbac.jpg",
+    "static/media/dubai.jpg": "/flightbooking/static/media/dubai.cb152946bb6d81e03f55.jpg",
+    "static/media/newYork.jpg": "/flightbooking/static/media/newYork.f8256e5c6df84b4bd4d8.jpg",
+    "static/media/logo.jpeg": "/flightbooking/static/media/logo.d4cca8622040d1bf7e7e.jpeg",
+    "index.html": "/flightbooking/index.html",
+    "main.ea59c3b6.css.map": "/flightbooking/static/css/main.ea59c3b6.css.map",
+    "main.d120b8f9.js.map": "/flightbooking/static/js/main.d120b8f9.js.map",
+    "453.356ef4fb.chunk.js.map": "/flightbooking/static/js/453.356ef4fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea59c3b6.css",
+    "static/js/main.d120b8f9.js"
+  ]
+}
